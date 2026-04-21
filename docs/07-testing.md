@@ -1,8 +1,8 @@
-# Module 7: Testing
+# Testing
 
 ## Introduction
 
-In this module, we'll implement comprehensive testing for our application. Testing is a critical part of software development that helps ensure our code works as expected and continues to work as we make changes. We'll cover different types of tests and how to implement them in our FastAPI application.
+Testing is a critical part of software development that helps ensure our code works as expected and continues to work as we make changes. We'll cover different types of tests and how to implement them in our FastAPI application.
 
 ## Objectives
 

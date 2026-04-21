@@ -1,8 +1,8 @@
-# Module 2: Database Models
+# Database Models
 
 ## Introduction
 
-In this module, we'll set up the database connection and define our database models. We'll use SQLAlchemy, a powerful Object-Relational Mapping (ORM) library for Python, to interact with the database.
+We'll use SQLAlchemy, a powerful Object-Relational Mapping (ORM) library for Python, to interact with the database.
 
 ## Objectives
 

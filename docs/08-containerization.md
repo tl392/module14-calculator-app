@@ -1,8 +1,8 @@
-# Module 8: Containerization with Docker
+# Containerization with Docker
 
 ## Introduction
 
-In this module, we'll containerize our FastAPI application using Docker. Containerization packages an application and its dependencies into a single unit called a container, making it easier to deploy and run consistently across different environments.
+Containerization packages an application and its dependencies into a single unit called a container, making it easier to deploy and run consistently across different environments.
 
 ## Objectives
 

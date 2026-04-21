@@ -1,8 +1,8 @@
-# Module 4: Authentication with JWT
+# Authentication with JWT
 
 ## Introduction
 
-In this module, we'll implement user authentication using JSON Web Tokens (JWT). JWT is a compact, URL-safe means of representing claims to be transferred between two parties. In our application, we'll use JWTs to authenticate users and secure API endpoints.
+JWT is a compact, URL-safe means of representing claims to be transferred between two parties. In our application, we'll use JWTs to authenticate users and secure API endpoints.
 
 ## Objectives
 

@@ -1,4 +1,4 @@
-# Module 6: Frontend Integration
+# Frontend Integration
 
 ## Introduction
 

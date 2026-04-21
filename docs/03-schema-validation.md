@@ -1,8 +1,8 @@
-# Module 3: Schema Validation with Pydantic
+# Schema Validation with Pydantic
 
 ## Introduction
 
-In this module, we'll learn about schema validation using Pydantic. Pydantic is a data validation and settings management library using Python type annotations. It ensures that the data received by our API endpoints and sent in responses is valid according to our specifications.
+Pydantic is a data validation and settings management library using Python type annotations. It ensures that the data received by our API endpoints and sent in responses is valid according to our specifications.
 
 ## Objectives
 

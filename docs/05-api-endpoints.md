@@ -1,8 +1,8 @@
-# Module 5: API Endpoints (BREAD Operations)
+#API Endpoints (BREAD Operations)
 
 ## Introduction
 
-In this module, we'll implement the API endpoints for our calculator application. We'll follow the BREAD pattern, which stands for Browse, Read, Edit, Add, Delete. This is a variation of the more common CRUD (Create, Read, Update, Delete) pattern.
+We'll follow the BREAD pattern, which stands for Browse, Read, Edit, Add, Delete. This is a variation of the more common CRUD (Create, Read, Update, Delete) pattern.
 
 ## Objectives
 
