@@ -187,17 +187,19 @@ pytest tests/e2e
 ---
 
 ## API Endpoints
-
-### Authentication
-
-* `POST /register` – Register user
-* `POST /login` – Login and receive JWT
-
-### Calculator
-
-* `POST /calculate` – Perform calculation
-* `GET /calculations` – Retrieve user history
-
+| Method | Endpoint | Description |
+|---|---|---|
+| `POST` | `/auth/register` | Register a new user |
+| `POST` | `/auth/login` | Login and get JWT tokens |
+| `POST` | `/auth/logout` | Logout (invalidate token) |
+| `POST` | `/auth/refresh` | Refresh access token |
+| `GET` | `/calculations` | List all calculations |
+| `POST` | `/calculations` | Create a new calculation |
+| `GET` | `/calculations/{id}` | Get a single calculation |
+| `PUT` | `/calculations/{id}` | Update a calculation |
+| `DELETE` | `/calculations/{id}` | Delete a calculation |
+ 
+Full interactive docs available at `/docs` (Swagger UI) when the app is running.
 ---
 
 ## How the Calculation Model Works
