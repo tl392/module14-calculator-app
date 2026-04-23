@@ -289,9 +289,8 @@ All pass? → Build Docker image → Push to Docker Hub
 
 | Secret | Value |
 |---|---|
-| `DOCKER_USERNAME` | Your Docker Hub username |
-| `DOCKER_PASSWORD` | Your Docker Hub password or access token |
-| `SECRET_KEY` | Your JWT secret key |
+| `DOCKERHUB_USERNAME` | Your Docker Hub username |
+| `DOCKERHUB_TOKEN` | Your Docker Hub password or access token |
 
 ---
 
